@@ -9,7 +9,7 @@ there that does not take great inventory, and suffe because of it. They need a s
 can store inventory and modify it to benefit both their business and their clients.
 
 
-Personas:
+Personas
 =========
 
 Adam
@@ -34,14 +34,14 @@ Goals
 -add/remove parts from the inventory.
 -produce an estimate of installtion of some of the parts.
 
-Problem Scenario:
+Problem Scenario
 =================
 
 Project M-spec is a star-up business. They dont have all the tools needed to
 keep track of all the inventory that comes in. Having a basic excel
 spreadsheet to record the inventory is not good enough.
 
-Current Alternatives:
+Current Alternatives
 ^^^^^^^^^^^^^^^^^^^^^
 Adam's current alternatives is hiring extra staff to help manage his inventory, 
 or implement a small scale CRM to help manage his clients and his invetory. 
